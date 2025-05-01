@@ -1,2 +1,2 @@
 # Superstore-Sales-Performance-Analysis-Power-BI-Project-
-Sales Optimization &amp; Profit Margin Analysis – Global Superstore
+This project analyzes sales and profitability trends using the Global Superstore dataset, with the goal of uncovering key business insights and proposing data-driven strategies to boost performance.
